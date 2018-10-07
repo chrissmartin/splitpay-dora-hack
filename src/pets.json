@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "name": "Burger",
+    "picture": "images/burger.jpg",
+    "price": 200,
+    "qty": 0
+  },
+  {
+    "id": 1,
+    "name": "Fries",
+    "picture": "images/fries.jpg",
+    "price": 100,
+    "qty": 0
+  },
+  {
+    "id": 2,
+    "name": "Cake",
+    "picture": "images/cake.jpg",
+    "price": 80,
+    "qty": 0
+  },
+  {
+    "id": 3,
+    "name": "Pepsi",
+    "picture": "images/pepsi.jpg",
+    "price": 35,
+    "qty": 0
+  }
+
+]
